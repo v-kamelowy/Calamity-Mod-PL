@@ -92,7 +92,7 @@ namespace CalamityPL
             {"DepthCells", "Komórki Głębi"},
             {"DesertFeather", "Pióro Pustyni"},
             {"DivineGeode", "Boska Geoda"},
-            {"DraedonBar", "Kiełkująca Sztabka"},
+            {"DraedonBar", "Draedońska Sztabka"},
             {"DubiousPlating", "Zużyte Obudowy"},
             {"EbonianGel", "Hebanowy Żel"},
             //{"Ectoblood", "Ektokrew"},
